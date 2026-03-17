@@ -36,6 +36,9 @@ This CRM dashboard is designed to simplify complex business data into a clear an
 
 https://www.figma.com/design/7nex6qJbyiJtlSDoJP51S1/CRM---Client-Management-Dashboard-UI
 
+## linkedIn POST Link
+https://www.linkedin.com/posts/vundamatla-revanth-karthikeya-manikanta-51059b2aa_uiux-figma-dashboarddesign-ugcPost-7439761614049886208-yBLW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp7QhwBvYuuHP-3-k3hIIvgrQxm03OQlGE
+
 ## 🎯 Project Purpose
 
 This project was created as part of a **UI/UX design task** to practice designing real-world dashboards used in business applications.
